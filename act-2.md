@@ -7,4 +7,4 @@ parent: Workshop Activities
 
 # Design a Keychain in Inkscape
 
-[NEXT STEP: ACT 3](act-3.html){: .btn .btn-blue }
+[NEXT STEP: Prepare an Image for Engraving in Inkscape](act-3.html){: .btn .btn-blue }

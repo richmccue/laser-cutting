@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 1- ACT 1
+title: 1-Design a Pencil Holder
 nav_order: 2
 parent: Workshop Activities
 ---
 
-# title
+# Design a Pencil Holder Using MakerCase
 
-[NEXT STEP: ACT 2](act-2.html){: .btn .btn-blue }
+[NEXT STEP: Design a Keychain in Inkscape](act-2.html){: .btn .btn-blue }
